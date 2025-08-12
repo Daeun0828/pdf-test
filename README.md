@@ -13,4 +13,4 @@ MIT License
 Copyright (c) 2025 jung daeun
 
 이 프로젝트는 MIT 라이선스 하에 배포됩니다.  
-자세한 내용은 [LICENSE](LICENSE) 파일을 참고하세요.
+
