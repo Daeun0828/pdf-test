@@ -2,5 +2,5 @@
 artifacts/
 __pycache__/
 *.npy
-*.log
 *.pdf
+*.log
